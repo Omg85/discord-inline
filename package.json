@@ -1,0 +1,23 @@
+{
+  "name": "discord-inline",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spikie",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "keywords": [
+    "discord-reply",
+    "discord-inline",
+    "discord-replies",
+    "discordjs-reply",
+    "discordjs-replies",
+    "discord.js-reply",
+    "discord-inlines"
+  ]
+}
